@@ -79,11 +79,11 @@ Create a .env file in server/ with:
 
 🔹 Frontend
 
-    Deployed on Vercel/Netlify → Frontend Live Demo
+    Deployed on Netlify → https://myquickmed.netlify.app/
 
 🔹 Backend
 
-    Deployed on Render/Heroku → Backend API
+    Deployed on Render → Backend API
 
 ## 🔒 Authentication Flow
 
