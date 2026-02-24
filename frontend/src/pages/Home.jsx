@@ -13,7 +13,7 @@ import {
 } from 'lucide-react';
 
 const HERO_IMAGES = [
-  "https://img.choice.com.au/-/media/926effbf964b4ae19a69f1df4c6dee99.ashx?w=660&jq=80%20660w",
+  "https://www.choice.com.au/wp-content/uploads/2022/11/pills-and-tablets.jpg?w=1024",
   "https://pxl-imperialacuk.terminalfour.net/filters:format(webp)/fit-in/1440x9999999/prod01/channel_3/media/images/banner-left-block-3000X1200/240617_isla_medicine_scholar_004.jpg",
   "https://cdn.shopaccino.com/refresh/articles/blog-homecare-14-12-2022-691340_l.png?v=531",
 ];
